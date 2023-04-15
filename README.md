@@ -28,7 +28,7 @@ A company XYZ has shared its Diwali sales data. They want us to analyze the data
 ➣From above graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector
 
 ● Bar chart for visualizing the data in Product Category
-![logo]()
+![logo](https://github.com/Shoaib9288/-Python_Diwali_Sales_Analysis/blob/main/Data_Visualization/Product%20Category.JPG)
 ➣From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category
 
 ● Bar chart for visualizing the data in top 10 most sold products
