@@ -33,6 +33,7 @@ A company XYZ has shared its Diwali sales data. They want us to analyze the data
 
 ● Bar chart for visualizing the data in top 10 most sold products
 ![logo](https://github.com/Shoaib9288/-Python_Diwali_Sales_Analysis/blob/main/Data_Visualization/ProductID_Orders.JPG)
+![logo](https://github.com/Shoaib9288/-Python_Diwali_Sales_Analysis/blob/main/Data_Visualization/Most_Sold_Products.JPG)
 
 ### Conclusion
 
